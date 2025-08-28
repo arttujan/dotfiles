@@ -1,0 +1,10 @@
+# Case-insensitive completion
+set completion-ignore-case On
+# Show list immediately if ambiguous
+set show-all-if-ambiguous On
+# Mark symlinked dirs when completing
+set mark-symlinked-directories On
+# Don't beep on ambiguous completions
+set bell-style none
+# Enable menu-complete with Shift-TAB
+"\e[Z": menu-complete
