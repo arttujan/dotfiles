@@ -1,4 +1,5 @@
 # Bash-First macOS Dotfiles (Homebrew Bash, Completion, FZF)
+(If anyone else but me is reading this and wonders why bash, because its faster than zsh)
 
 This repo contains a minimal, modern **bash** setup for macOS with:
 - Homebrew **bash** (v5+)
